@@ -1,3 +1,7 @@
 hexo g
+
 hexo server -s
+
+git push origin raw
+
 hexo d
